@@ -1,0 +1,20 @@
+ h2.intro{
+ 	color: green;
+    text-align: right;
+    text-decoration: overline;
+    letter-spacing: 3px;
+    word-spacing: 10px;
+ }
+p.intro{
+
+	 text-transform: uppercase;
+	 text-indent: 10px;
+	 line-height: 1.8;
+}
+img.intro{
+
+	margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
